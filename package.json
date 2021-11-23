@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Escias/expfast/issues"
   },
-  "homepage": "https://github.com/Escias/expfast#readme"
+  "homepage": "https://github.com/Escias/expfast#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "fastify": "^3.24.0"
+  }
 }
